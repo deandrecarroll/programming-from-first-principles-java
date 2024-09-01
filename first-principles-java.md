@@ -1,32 +1,19 @@
 # Programming From First Principles - Java
 
 [Computer Programming Language Concepts](#computer-programming-language-concepts)
-
-[Basic (Complete) Programming](#basic-complete-programming)
-
-[Style Guides and Best Practices](#style-guides-and-best-practices)
-
-[Program Structure](#program-structure)
-
-[Statements](#statements)
-
-[Simple Data Types (Values)](#simple-data-types-values)
-
-[Expressions and Operators](#expressions-and-operators)
-
-[Variables](#variables)
-
-[Flow Control](#flow-control)
-
-[Iteration (Looping)](#iteration-looping)
-
-[Input/Output](#inputoutput)
-
-[Modular Programming](#modular-programming)
-
-[Functions](#functions)
-
-[Composite Data Types](#composite-data-types)
+* [Basic (Complete) Programming](#basic-complete-programming)
+  * [Style Guides and Best Practices](#style-guides-and-best-practices)
+  * [Program Structure](#program-structure)
+  * [Statements](#statements)
+  * [Simple Data Types (Values)](#simple-data-types-values)
+  * [Expressions and Operators](#expressions-and-operators)
+  * [Variables](#variables)
+  * [Flow Control](#flow-control)
+  * [Iteration (Looping)](#iteration-looping)
+  * [Input/Output](#inputoutput)
+* [Modular Programming](#modular-programming)
+  * [Functions](#functions)
+  * [Composite Data Types](#composite-data-types)
 
 # Computer Programming Language Concepts
 
