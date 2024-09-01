@@ -1,58 +1,58 @@
-# Programming From First Principles \- Java
+# Programming From First Principles - Java
 
-[Computer Programming Language Concepts](\#computer-programming-language-concepts)
+[Computer Programming Language Concepts](#computer-programming-language-concepts)
 
-[Basic (Complete) Programming](\#basic-(complete)-programming)
+[Basic (Complete) Programming](#basic-complete-programming)
 
-[Style Guides and Best Practices](\#style-guides-and-best-practices)
+[Style Guides and Best Practices](#style-guides-and-best-practices)
 
-[Program Structure](\#program-structure)
+[Program Structure](#program-structure)
 
-[Statements](\#statements)
+[Statements](#statements)
 
-[Simple Data Types (Values)](\#simple-data-types-(values))
+[Simple Data Types (Values)](#simple-data-types-values)
 
-[Expressions and Operators](\#expressions-and-operators)
+[Expressions and Operators](#expressions-and-operators)
 
-[Variables](\#variables)
+[Variables](#variables)
 
-[Flow Control](\#flow-control)
+[Flow Control](#flow-control)
 
-[Iteration (Looping)](\#iteration-(looping))
+[Iteration (Looping)](#iteration-looping)
 
-[Input/Output](\#input/output)
+[Input/Output](#inputoutput)
 
-[Modular Programming](\#modular-programming)
+[Modular Programming](#modular-programming)
 
-[Functions](\#functions)
+[Functions](#functions)
 
-[Composite Data Types](\#composite-data-types)
+[Composite Data Types](#composite-data-types)
 
-# Computer Programming Language Concepts {#computer-programming-language-concepts}
+# Computer Programming Language Concepts
 
-## Basic (Complete) Programming {#basic-(complete)-programming}
+## Basic (Complete) Programming
 
-### Style Guides and Best Practices {#style-guides-and-best-practices}
+### Style Guides and Best Practices
 
-### Program Structure {#program-structure}
+### Program Structure
 
-### Statements {#statements}
+### Statements
 
-### Simple Data Types (Values) {#simple-data-types-(values)}
+### Simple Data Types (Values)
 
-### Expressions and Operators {#expressions-and-operators}
+### Expressions and Operators
 
-### Variables {#variables}
+### Variables
 
-### Flow Control {#flow-control}
+### Flow Control
 
-### Iteration (Looping) {#iteration-(looping)}
+### Iteration (Looping)
 
-### Input/Output {#input/output}
+### Input/Output
 
-## Modular Programming {#modular-programming}
+## Modular Programming
 
-### Functions {#functions}
+### Functions
 
-### Composite Data Types {#composite-data-types}
+### Composite Data Types
 
